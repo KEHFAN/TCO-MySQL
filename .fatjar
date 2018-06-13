@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jun 03 16:10:13 CST 2018
+onejar.license.required=true
+manifest.mergeall=true
+manifest.removesigners=true
+excludes=
+includes=
+onejar.checkbox=false
+onejar.expand=
+manifest.classpath=
+jarname=\u5BA2\u6237\u8BA2\u8D2D\u7BA1\u7406\u7CFB\u7EDF.jar
+jarname.isextern=false
+manifest.file=<createnew>
+manifest.mainclass=pri.fankehu.MainWindow.MainWin
